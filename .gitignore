@@ -1,3 +1,7 @@
+# other files
+.ipynb_checkpoints
+climate_analysisssss.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
